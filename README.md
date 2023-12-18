@@ -1,3 +1,16 @@
+# COVID-19 Tracker App
+
+COVID-19 Tracker App with React & Redux
+
+## Live Demo
+
+[https://cagrierdemm.github.io/react-redux-covid19-tracker/](https://cagrierdemm.github.io/react-redux-covid19-tracker/)
+
+## Preview:
+
+![preview.png](./public/preview.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
